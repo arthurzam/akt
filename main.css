@@ -1,0 +1,25 @@
+﻿body
+{
+    direction: rtl;
+    background-color:#DDEEEE;
+}
+.control
+{
+    font-family: David;
+    font-size: large;
+}
+.regular_table
+{
+    width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    font-family: David;
+    font-size: large;
+}
+.menu_button
+{
+    width:230px;
+    height:60px;
+    font-family: David;
+    font-size: x-large;
+}
